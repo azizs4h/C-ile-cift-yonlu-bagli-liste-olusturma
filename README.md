@@ -1,1 +1,1 @@
-# C-ile-ift-y-nl-ba-l-liste-olu-turma
+C programla dili ile dosyadaki bilgiler sıralı şekilde çift yönlü bağlı listeye aktarılmıştır.
